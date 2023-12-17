@@ -1,6 +1,4 @@
-# basic_ui
-
-A new Flutter project.
+# Aplicacion ui basico
 
 ## Getting Started
 
